@@ -1,4 +1,4 @@
-<img align="right" src="https://i.ibb.co/Cv0gLQF/Pngtree-information-technology-cloud-computing-computer-6406341.png" alt="Illustration" title="Illustration Storyset" width=300/>
+<img align="right" src="https://i.ibb.co/Cv0gLQF/Pngtree-information-technology-cloud-computing-computer-6406341.png" alt="Illustration" title="Illustration Storyset" width=250/>
     
 <h1 align="left">Hi, I'm Paco :)</h1>
 
