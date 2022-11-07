@@ -2,7 +2,7 @@
     
 <h1 align="left">Hi, I'm Paco</h1>
 
-<h3 align="left">I have a passion for programming and technology! 🚀</h3>
+<h3 align="left">Passionate about everything creative and human. Eager to learn new tech solutions and meet like-minded people! 🚀</h3>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
