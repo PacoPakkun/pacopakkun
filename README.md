@@ -4,6 +4,8 @@
 
 <h3 align="left">Passionate about everything creative and human. Eager to learn new tech solutions and meet like-minded people! 🌵</h3>
 
+---
+
 <div>
     <h3>🛠 Languages, frameworks and tools I have experience with:</h3>
     <blockquote>Back-end</blockquote>
