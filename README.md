@@ -24,7 +24,7 @@
     <blockquote>Front-end</blockquote>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=REACT.JS&color=B1BCE6&style=for-the-badge&logo=react&logoColor=grey" alt="React"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=99A799&style=for-the-badge&logo=typescript&logoColor=whitesmoke" alt="Typescript"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=92A9BD&style=for-the-badge&logo=javascript&logoColor=whitesmoke" alt="Javascript"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=815B5B&style=for-the-badge&logo=javascript&logoColor=whitesmoke" alt="Javascript"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=JQuery&color=5F939A&style=for-the-badge&logo=jquery&logoColor=whitesmoke" alt="JQuery"></a>
     <br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML&color=E4CDA7&style=for-the-badge&logo=html5&logoColor=grey" alt="HTML"></a>
